@@ -21,7 +21,7 @@ A data engineer passionate about Data Science :bar_chart:. I like automating thi
 
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
 <p align="center" >
-	<img width="30%" src="https://github-readme-stats.vercel.app/api?username=RezaQavi-Gitshow_icons=truehide_border=true" />
+	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=RezaQavi-Git&show_icons=truehide_border=true" />
 </p>
 
 <hr>
